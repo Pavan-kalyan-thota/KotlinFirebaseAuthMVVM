@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796382033596",
+    "firebase_url": "https://fir-auth-mvvm-6c81f.firebaseio.com",
+    "project_id": "fir-auth-mvvm-6c81f",
+    "storage_bucket": "fir-auth-mvvm-6c81f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796382033596:android:3f6543a559bfde2d7f82b9",
+        "android_client_info": {
+          "package_name": "com.pavan.firebaseauthmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796382033596-00u09d7b663uaht2b7ojiben5hfars3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8xO171Q7q1Uma8pvqulpw3Ikg9frQf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796382033596-00u09d7b663uaht2b7ojiben5hfars3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
